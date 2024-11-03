@@ -1,13 +1,11 @@
 <html>
 <head>
-<title>
 Обо мне:
-</title>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <i><p style="color:Black ;font-family:'Calibri';font-size:40px;">Меня зовут Юлия Еремеева,цифровой-психолог</p></i>
-<i><p style="text-align:left;color:black;font-family:'Calibri';font-size:30px";>Я-мама <span style="color:red";>троих</span> детей.</p></i>
+<i><p style="text-align:left;color:black;font-family:'Calibri';font-size:30px";> Я-мама <span style="color:red";> троих </span> детей.</p></i>
 <i><p style="text-align:left;color:black;font-family:'Calibri';font-size:30px";>За плечами пара разводов.</p></i>
 
 <i><p style="text-align:left;color:black;font-family:'Calibri';font-size:30px";>И только в </i><span style="color:red";font-family:'Arial';><b>нумерологии</b></span><i> я разобралась <b>почему</b> они вообще были...</i>
